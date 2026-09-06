@@ -1,0 +1,10 @@
+models:
+  - name: bronze_customer
+    description: "This model contains the raw customer data from the source system."
+    config:
+        materialized: view
+
+  - name: bronze_product
+    description: "This model contains the raw product data from the source system."
+    config:
+        materialized: view
