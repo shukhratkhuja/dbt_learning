@@ -1,0 +1,21 @@
+id,region,product,channel,salesperson,order_date,units,amount,status
+1,North,Notebook,Online,Alice,2024-01-05,12,2400,Closed
+2,South,Keyboard,In-Store,Ben,2024-01-08,18,3600,Closed
+3,East,Monitor,Online,Chloe,2024-01-11,7,4200,Pending
+4,West,Laptop,Partner,Daniel,2024-01-15,5,6500,Closed
+5,North,Printer,Online,Emma,2024-01-19,10,2200,Closed
+6,South,Mouse,In-Store,Frank,2024-01-22,25,1250,Closed
+7,East,Tablet,Online,Grace,2024-01-25,9,4800,Pending
+8,West,Webcam,Partner,Henry,2024-01-29,14,2100,Closed
+9,North,Headset,Online,Ivy,2024-02-02,16,3200,Closed
+10,South,Speaker,In-Store,Jack,2024-02-06,11,2750,Closed
+11,East,Projector,Partner,Karen,2024-02-09,3,5400,Pending
+12,West,Router,Online,Liam,2024-02-13,20,3000,Closed
+13,North,USB Drive,In-Store,Mia,2024-02-17,40,1600,Closed
+14,South,Monitor,Online,Nathan,2024-02-21,8,5000,Closed
+15,East,Keyboard,Partner,Olivia,2024-02-24,22,3300,Pending
+16,West,Laptop,Online,Peter,2024-02-28,6,8700,Closed
+17,North,Speaker,In-Store,Quinn,2024-03-03,13,3900,Closed
+18,South,Tablet,Online,Rosa,2024-03-07,10,6100,Closed
+19,East,Mouse,Partner,Sam,2024-03-10,30,1500,Pending
+20,West,Notebook,Online,Tara,2024-03-14,17,3400,Closed

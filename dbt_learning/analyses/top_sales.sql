@@ -1,0 +1,1 @@
+select * from {{ ref('sales') }} where units * amount > 50000
