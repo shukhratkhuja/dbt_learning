@@ -1,10 +1,11 @@
 sources:
   - name: source
     database: "dbt-learning"
-    freshness:
-      warn_after: {count: 2, period: day}
-      error_after: {count: 7, period: day}
     loaded_at_field: _synced_at
+    config:
+      freshness:
+        warn_after: {count: 2, period: day}
+        error_after: {count: 7, period: day}
 
     tables:
         - name: fact_sales
@@ -13,4 +14,4 @@ sources:
         - name: dim_product
         - name: dim_store
         - name: dim_date
-
+        - name: items
